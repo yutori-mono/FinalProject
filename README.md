@@ -2,8 +2,6 @@
 
 A full-stack web application for automated exploratory data analysis (EDA) of CSV and Excel datasets. Upload a file and instantly get visualizations, statistical insights, and AI-generated business recommendations.
 
-![DataAnalyzer Preview](docs/preview.png)
-
 ---
 
 ## Features
