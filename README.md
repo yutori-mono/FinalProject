@@ -134,16 +134,16 @@ The repository includes `StudentPerformanceFactors.csv` — a dataset of 6,607 s
 ## Screenshots
 
 ### Upload Screen
-![Upload](docs/upload.png)
+![Upload](docs/upload.jpg)
 
 ### Data Preview
-![Preview](docs/preview.png)
+![Preview](docs/preview.jpg)
 
 ### Visualizations
-![Charts](docs/charts.png)
+![Charts](docs/charts.jpg)
 
 ### AI Insights
-![Insights](docs/insights.png)
+![Insights](docs/insights.jpg)
 
 ---
 
