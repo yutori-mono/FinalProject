@@ -2,8 +2,6 @@
 
 A full-stack web application for automated exploratory data analysis (EDA) of CSV and Excel datasets. Upload a file and instantly get visualizations, statistical insights, and AI-generated business recommendations.
 
-![DataAnalyzer Preview](docs/preview.png)
-
 ---
 
 ## Features
@@ -112,7 +110,7 @@ Frontend runs at: `http://localhost:5173`
 
 ---
 
-## 📊 Sample Dataset
+## Sample Dataset
 
 The repository includes `StudentPerformanceFactors.csv` — a dataset of 6,607 students with 20 features including study hours, attendance, sleep, parental involvement, and exam scores.
 
@@ -123,7 +121,7 @@ The repository includes `StudentPerformanceFactors.csv` — a dataset of 6,607 s
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -133,7 +131,7 @@ The repository includes `StudentPerformanceFactors.csv` — a dataset of 6,607 s
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Upload Screen
 ![Upload](docs/upload.png)
@@ -149,6 +147,6 @@ The repository includes `StudentPerformanceFactors.csv` — a dataset of 6,607 s
 
 ---
 
-## 👤 Author
+## yutori-mono
 
 Built as a Final Project for Big Data Analysis course.
